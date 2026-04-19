@@ -53,6 +53,4 @@ python app.py
 - **Classes:** Real | Fake
 - **Face Extraction:** MTCNN (detects face bounding box before classification)
 
-## Author
 
-[BasithMrasak](https://github.com/BasithMrasak)
